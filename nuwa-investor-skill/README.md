@@ -17,20 +17,33 @@
 ## 目录结构
 
 ```
-├── SKILL.md                        # Brian Halligan 投资人版 Skill（蒸馏产物）
-├── README.md                       # 本文件
+├── SKILL.md                              # [投资人] 投资人版 Skill（蒸馏产物）
+├── README.md                             # 本文件
 └── references/
-    ├── extraction-framework.md     # 投资人版提炼方法论
-    ├── skill-template.md           # 投资人版 Skill 输出模板
-    └── research/                   # 调研原始数据
-        ├── halligan_sequoia_data.md
-        ├── halligan_twitter_investor.md
-        └── halligan_supplemental_research.md
+    ├── extraction-framework.md           # 投资人版提炼方法论（含反模式/质疑风格维度）
+    ├── contrarian-research-framework.md  # 反向尽调方法论（Track B 自主调研 SOP）
+    ├── skill-template.md                 # 投资人版 Skill 输出模板（含双轨 Agentic Protocol）
+    └── research/                         # 调研原始数据
+        ├── [investor]_portfolio.md
+        ├── [investor]_public_statements.md
+        ├── [investor]_social_media.md
+        └── [investor]_contrarian_material.md   # 反模式与质疑素材（新增）
 ```
+
+## 核心能力：双轨 Agentic Protocol
+
+本版本在女娲原有 Agentic Protocol 基础上，引入**双轨自主调研**：
+
+- **Track A — 正向研究**：此人会看重的亮点（项目/创始人/赛道）
+- **Track B — 反向尽调（Contrarian Due Diligence）**：自主收集最能推翻乐观判断的事实与观点
+
+Skill 激活后评估具体项目时，默认**同步**启动 A/B 双轨，通过 Steelman 反方三问、红旗映射、红线清单等机制避免确认偏误，最终以此人的**质疑风格**输出平衡的投资判断。详见 `references/contrarian-research-framework.md`。
+
+**触发关键词**：用户说"挑毛病 / red team / 给我最坏情况 / 我会投吗 / 反方观点"时，Track B 将主导输出。
 
 ## 与原版女娲的兼容性
 
-本版本保持了女娲原有的整体结构，包括四阶段蒸馏流程（采集 → 验证 → 构建 → 质检）和五层蒸馏体系（表达DNA、心智模型、决策启发式、反模式、诚实边界）。所有修改均为在原有框架上的投资人特化扩展，不影响与原版女娲工具链的兼容性。
+本版本保持了女娲原有的整体结构，包括四阶段蒸馏流程（采集 → 验证 → 构建 → 质检）和五层蒸馏体系（表达DNA、心智模型、决策启发式、反模式、诚实边界）。新增的"反向尽调 Track B"属于 Agentic Protocol 的运行时扩展，不改变上游结构，也不影响与原版女娲工具链的兼容性。
 
 ## 致谢
 
