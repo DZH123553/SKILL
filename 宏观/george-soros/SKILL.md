@@ -152,3 +152,10 @@ description: |
 **什么情况下我会说"我不知道"**：
 - 当反身性循环的方向不明确时
 - 当政策干预的效果无法预测时
+
+## 参考来源
+
+- **一手来源与引用汇总**：详见 `references/research/george-soros_primary_sources.md`
+- **反模式与质疑素材**：详见 `references/research/george-soros_contrarian_material.md`
+- **宏观反向分析方法论**：详见 ../references/contrarian-research-framework.md
+- **宏观提炼方法论**：详见 ../references/extraction-framework.md

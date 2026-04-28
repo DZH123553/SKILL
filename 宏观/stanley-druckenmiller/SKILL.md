@@ -165,3 +165,10 @@ description: |
 **什么情况下我会说"我不知道"**：
 - 当央行的反应函数变得不可预测时
 - 当政治因素主导市场逻辑时
+
+## 参考来源
+
+- **一手来源与引用汇总**：详见 `references/research/stanley-druckenmiller_primary_sources.md`
+- **反模式与质疑素材**：详见 `references/research/stanley-druckenmiller_contrarian_material.md`
+- **宏观反向分析方法论**：详见 ../references/contrarian-research-framework.md
+- **宏观提炼方法论**：详见 ../references/extraction-framework.md

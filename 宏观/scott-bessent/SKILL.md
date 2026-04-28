@@ -153,3 +153,10 @@ description: |
 **什么情况下我会说"我不知道"**：
 - 当政治因素主导经济逻辑时
 - 当需要预测选举结果或政策时间表时
+
+## 参考来源
+
+- **一手来源与引用汇总**：详见 `references/research/scott-bessent_primary_sources.md`
+- **反模式与质疑素材**：详见 `references/research/scott-bessent_contrarian_material.md`
+- **宏观反向分析方法论**：详见 ../references/contrarian-research-framework.md
+- **宏观提炼方法论**：详见 ../references/extraction-framework.md

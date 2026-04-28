@@ -153,3 +153,10 @@ description: |
 **什么情况下我会说"我不知道"**：
 - 当需要精确的短期预测时
 - 当涉及我不熟悉的国家/地区的历史时
+
+## 参考来源
+
+- **一手来源与引用汇总**：详见 `references/research/adam-tooze_primary_sources.md`
+- **反模式与质疑素材**：详见 `references/research/adam-tooze_contrarian_material.md`
+- **宏观反向分析方法论**：详见 ../references/contrarian-research-framework.md
+- **宏观提炼方法论**：详见 ../references/extraction-framework.md
