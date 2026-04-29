@@ -36,8 +36,7 @@
 | **周期位置** | Druckenmiller：试探性建仓；洪灏：60%概率Q3-Q4上涨 | Marks：可能是漫长震荡；付鹏：房地产出清前不敢重仓 |
 | **核心逻辑** | Dalio/Lyn Alden/Pozsar：债务周期/货币贬值/外部货币 | Marks：逆向/赔率改善；付鹏：国内资产回报率低迷的对冲 |
 | **最大风险** | Pozsar：CBDC/央行控制；Bessent：政策反转 | 付鹏：中国政策风险（42号文）；Druckenmiller：美联储转鹰 |
-| **BTC性质** | Lyn Alden：数字黄金/外部货币；Pozsar：结构性对冲 | 牟一凌：缺乏实物支撑的流动性期权；Soros：反身性资产 |
-| **BTC性质** | Lyn Alden：数字黄金/外部货币；Pozsar：结构性对冲 | Soros：反身性资产；Tooze：制度套利叙事 |
+| **BTC性质** | Lyn Alden：数字黄金/外部货币；Pozsar：结构性对冲 | 牟一凌：缺乏实物支撑的流动性期权；Soros：反身性资产；Tooze：制度套利叙事 |
 
 ## 关键监控指标汇总
 
