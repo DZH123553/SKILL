@@ -1,0 +1,438 @@
+ 
+1 
+本报告版权属于安信证券股份有限公司。 
+各项声明请参见报告尾页。 
+ 
+军工大潮 以‚民‛为本 
+■顶层设计加快扫清体制障碍，军民融合向实质性阶段推进。2016 年作
+为军民融合十三五规划开局之年，在上升为国家战略之后，军民融合将成为未来
+几年军工投资较为确定的方向，军民深度融合及资本证券化趋势已经明确。目前
+我国军民融合度在30%左右， 2016 年3 月17 日国防科工局发布《2016 年国防科
+工局军民融合专项计划》旨在加快推进国防科技工业军民融合深度发展。3 月12
+日习近平主席强调要强化大局意识，站在党和国家事业发展全局高度思考问题、
+推动工作做到责任到位、措施到位、落实到位；要着力解决制约军民融合发展的
+体制性障碍、结构性矛盾、政策性问题，这预示着军民融合要扫除障碍加快推进。 
+■军工信息化是‚十三五‛国防投入重要方向。5 月中央军委颁发《军队
+建设发展‚十三五‛规划纲要》提出未来五年国防信息化中军事通信、电子对抗、
+指挥控制、安全加密、导航定位等成为重点建设领域。信息化建设将构建能够打
+赢信息化战争、有效履行使命任务的中国特色现代军事力量体系： 
+• 高精尖武器装备升级换代需求对各分系统及单机设备提出更高指标要求，拉
+动整个基础工业尤其电子产业技术替换提升。具体技术方向包括芯片、
+FPGA，红外技术，先进导航制导与控制、量子通信、自主可控、新材料、
+大数据、VR&AR 等技术。民参军后，整个航电系统均面临从上游到下游的
+迭代替换。将激活整个军工电子千亿级市场空间。 
+• 预计未来5 年指挥专网C4ISR 升级、舰载和机载军用雷达、量子通信加密、
+水下防御作战系统成为通信行业中民参军增长最快的细分市场，军用C4ISR
+系统通信网络建设加速，未来三年C4ISR 投资年复合增长率超过25%，预计
+2018 年投资达1440 亿元，产业链上组网设备、终端、上游器件等将受益。 
+• 国防信息安全细分领域建议重点发展网络与信息安全、卫星导航系统、电磁
+仿真与信号处理、海洋信息化等领域。 
+■ ‚一代材料，一代飞机‛军工材料奠定空天装备基石。高温合金是军
+民航空发动机及地面燃气轮机热端部件不可替代的关键结构材料。在先进航空发
+动机中，高温合金用量占发动机总重量高达60%以上。结合军机、民机、燃气轮
+机、汽车涡轮增压以及核能需求，我们测算未来20 年我国高温合金年均母合金
+销售规模662 亿元，年均叶片维修市场规模1003 亿元。 
+■投资建议：十三五规划开局之年，顶层设计提升战略高度、强化大局观念，
+落实责任到位及扫除制度障碍，军民融合为未来军工板块较为确定的投资方向： 
+• 军民融合上升为国家战略，业绩弹性较大的建议重点关注华讯方舟、天海防
+务、航新科技、天银机电、海兰信等； 
+• 国防信息化重点推荐中航电测（力学测控和智能配电配套新机型、高过载
+MEMS 放量），中航光电（受益整个军工电子增长），火炬电子（新材料），
+紫光国芯（军工半导体），欧比特（宇航级芯片，卫星平台及卫星大数据），
+振华科技（CEC 军工电子平台），久之洋（红外探测、激光测距新星）, 凯
+乐科技（量子通信，自主可控，军民警融合发展）、三力士、盛路通信；关
+注景嘉微（军用GPU），金信诺。 
+• 软件推荐久远银海、同有科技、佳讯飞鸿、华力创通、启明星辰、卫士通； 
+• 国防军工新材料板块推荐万泽股份、银邦股份、云南锗业；关注云海金属。 
+■风险提示：国家政策推进缓慢，军民融合产业不达预期，周边局势紧张。 
+Tabl e_Title 
+2016 年07 月08 日 
+国防军工 
+Tabl e_BaseInfo 
+行业专题报告 
+证券研究报告 
+ 
+投资评级 
+领先大市-A 
+维持评级 
+ 
+Tabl e_FirstStock 
+首选股票 
+目标价 
+评级 
+ 
+000687 
+华讯方舟 
+28.50 
+买入-A 
+300424 
+航新科技 
+80.00 
+买入-A 
+300008 
+天海防务 
+31.90 
+买入-A 
+300114 
+中航电测 
+30.00 
+买入-A 
+002179 
+中航光电 
+54.00 
+买入-A 
+002224 
+三力士 
+22.90 
+买入-A 
+002777 
+久远银海 
+120.00 
+买入-A 
+000534 
+万泽股份 
+24.00 
+买入-A 
+300337 
+银邦股份 
+9.00 
+买入-B 
+300252 
+金信诺 
+30.00 
+买入-B 
+300302 
+同有科技 
+80.00 
+买入-A 
+ 
+ 
+Tabl e_Chart 
+行业表现 
+ 
+资料来源：Wind 资讯 
+  
+% 
+1M 
+3M 
+12M 
+相对收益 
+-0.75 
+0.16 
+-11.92 
+绝对收益 
+-0.27 
+-3.61 
+-40.96 
+ 
+  
+赵晓光 
+分析师 
+SAC 执业证书编号：S1450514030002 
+zhaoxg@essence.com.cn 
+021-35082399 
+邹润芳 
+分析师 
+SAC 执业证书编号：S1450514040001 
+zourf@essence.com.cn 
+021-35082076 
+胡又文 
+分析师 
+SAC 执业证书编号：S1450511050001 
+huyw@essence.com.cn 
+021-35082010 
+李伟 
+分析师 
+SAC 执业证书编号：S1450515080003 
+liwei3@essence.com.cn 
+010-83321038 
+齐丁 
+分析师 
+SAC 执业证书编号：S1450513090001 
+qiding@essence.com.cn 
+010-83321063 
+徐彪 
+分析师 
+SAC 执业证书编号：S1450515050002 
+xubiao@essence.com.cn 
+021-68766182 
+ 
+ 
+  
+相关报告 
+国防军工:军改持续推进，看好未来国防
+信息化、资产证券化及军民融合 
+-45%
+-36%
+-27%
+-18%
+-9%
+0%
+9%
+2015-06
+2015-10
+2016-02
+国防军工 
+沪深300 
+
+
+ 
+2 
+All rights are reserved by Essence Securities Co., Ltd. 
+For analyst certificate and other important disclosures, please refer to the Disclosure Section located at the end of this report.  
+ 
+ 
+ 
+Big Military Wave, Based on ‚Civilian‛ 
+■The top design speeds up to sweep away systematic barriers, promoting the military-civilian 
+integration to step to substantial stage. At the beginning year of the 13th Five Plan in 2016, 
+military-civilian integration has been lifted to the level of national strategy, which indicates that it will be the 
+relatively definite direction for military investment in the near future years, and that the trend of deep 
+military-civilian integration and capital securitization is undoubted. Our military-civilian integration rate is only 
+about 30% now, therefore, the national defense science and industry bureau released “Military-civilian 
+Integration Special Plan by National Defense Science and Industry Bureau in 2016”on 17th, March, aiming to 
+promote the deep development of military-civilian integration. On March 12, Chairman Jinping Xi 
+emphasized on the importance of thinking on the level of the whole party and national development 
+with a holistic view, as well as implementing responsibility, proper measures and tasks when 
+promoting work, and he also asked to solve the systematic barriers, structural contradictions, policy 
+problems hindering military-civilian integration, which predicts the military-civilian integration will be 
+accelerated by sweeping away the barriers.  
+ 
+■Military informatization is the important direction of military defense investment of “The 13th Five 
+Year Plan”. According to “The 13th Five Plan’s Outline on Army Construction and Development” issued by 
+CMC on May, military communication, electronic warfare, command control, secure encryption and 
+navigation and location in defense informatization will become the key fields in the future five years. The 
+informatization construction will build modern military system with Chinese characteristics which will win 
+informatization war and perform tasks effectively. 
+• 
+The demand for upgrading and updating of high-grade, high-precision and advanced weapon 
+equipment makes higher index requirements for the subsystems and single unit equipments, driving 
+the whole infrastructure industry especially the electronic industry to be updated. The concrete 
+technology is consisted of chips, FPGA, infrared technology, advanced navigation guidance and 
+control,  quantum communication, self-control, new material, big data, VR&AR and so on. After 
+military-civilian integration, the whole  avionics system will confront the upgrading and updating 
+from upstream to downstream, which will activate the whole military electronic market of hundred 
+billion level.  
+• 
+It is predicted the updating special command network C4ISR, ship-borne and air-borne military radar, 
+quantum communication encryption and underwater defense combat system will become the 
+submarkets at the fastest growth as civilian-attending-military in communication industry in the near 5 
+years. The construction of communication network of military C41SR system is accelerated. It is 
+estimated C4ISR’s compounded annual growth rate in the near 3 years will exceed 25% and the 
+investment on it will be up to 144 billion in 2018, which will benefit networking equipment, terminal 
+equipment and upstream devices in the industry chain.  
+• 
+In the defense information safety sub-fields, it is suggested that network and information safety, 
+satellite navigation system, electromagnetic simulation and signal processing, ocean informatization 
+should be emphasized.   
+■ “New generation of airplane depends on new generation of material”. Military material is the base 
+of space equipment. High temperature alloy is the irreplaceable critical structural material for engines of 
+military civilian aviation and hot end parts of ground gas turbine. The weight of high temperature alloy 
+accounts for over 60% of the total engine for the advanced aviation engines. We expect that annual 
+average sales scale of mother alloy of high temperature alloy will be 66.2 billion and annual average scale 
+of blade repairing market will be 100.3 billion in the near 20 years.  
+■ Investment advice: Military-civilian integration is the relative definite investment direction for the future 
+military sector, for in the beginning year of the 13th Five Plan, the top design aims at promoting it to the 
+strategic level, emphasizing on holding holistic view, implementing responsibilities and eliminating system 
+barriers.  
+• 
+For defense informatization, we highly recommend Avic Zemic(new product model equipped with 
+mechanical measurement and control and intelligent power distribution, high overload MEMS), Jonhon 
+Photonics (benefited from the growth of whole military electronics),      Torch Electronic(new material 
+applied), Uni IC(military semi-conductor), Obiter(space-level chips, space platform and big data), Zhenhua 
+Technology (CEC military electronic platform),      Jiuzhiyang Infrared( new star in 
+infrared detection,  laser ranging field), Kaile Technology (quantum communication, self-control, military- 
+civilian- police integration), Sanlux, Shenglu Communication . Focus on Jingjia Micro (military GPU), 
+Kingsignal. 
+• 
+For the software, we recommend Jiuyuan Yinhai, Tongyou Technology, Jiaxun, Hwa Creat, Venustec, 
+and Westone. 
+• 
+For defense military new material sector, we recommend Wedge, Yinbang, Yunnan Germanium. 
+Focus on Yunhai Metal. 
+■Risk warning: Slow promotion of national policy, less-than-expected military-civilian integration, and tense 
+border situation.  
+ 
+July 8, 2016 
+Defense and Military  
+Tabl e_BaseInfo 
+Special Report of Industry 
+Securities Research Report 
+ 
+Rating 
+Outperform-A 
+Keep rated 
+ 
+Tabl e_FirstStock 
+Preferred Stock 
+Target price 
+Rating 
+ 
+000687 
+Huaxun Ark 
+28.50 
+Buy-A 
+300424 
+Hangxin 
+Technology 
+80.00 
+Buy-A 
+300008 
+Tianhai 
+Defense 
+31.90 
+Buy-A 
+300114 
+Avic Zemic 
+30.00 
+Buy-A 
+002179 
+Jonhon 
+Photonics 
+54.00 
+Buy-A 
+002224 
+Sanlux 
+22.90 
+Buy-A 
+002777 
+Jiuyuan Yinhai 
+120.00 
+Buy-A 
+000534 
+Wedge 
+24.00 
+Buy-A 
+300337 
+Yinbang 
+9.00 
+Buy-A 
+300252 
+Kingsignal 
+30.00 
+Buy-A 
+300302 
+Tongyou 
+Technology 
+80.00 
+Buy-A 
+ 
+ 
+Tabl e_Chart 
+Industry performance 
+ 
+Resource：Wind 
+  
+% 
+1M 
+3M 
+12M 
+Relative 
+return 
+-0.75 
+0.16 
+-11.92 
+Abosolute 
+return 
+-0.27 
+-3.61 
+-40.96 
+ 
+  
+ Xiaoguang Zhao 
+Analyst 
+SAC Reg. No.：S1450514030002 
+zhaoxg@essence.com.cn 
+86-21-35082399 
+Runfang ZOU 
+Analyst 
+SAC Reg. No.：S1450514040001 
+zourf@essence.com.cn 
+86-21-35082076 
+Youwen Hu 
+Analyst 
+SAC Reg. No.：S1450511050001 
+huyw@essence.com.cn 
+86-21-35082010 
+Wei Li 
+Analyst 
+SAC Reg. No.：S1450515080003 
+liwei3@essence.com.cn 
+86-10-83321038 
+Ding Qi 
+Analyst 
+SAC Reg. No.：S1450513090001 
+qiding@essence.com.cn 
+86-10-83321063 
+Biao Xu     Analyst 
+SAC Reg. No.：S1450515050002 
+xubiao@essence.com.cn 
+86-21-68766182 
+ 
+ 
+ 
+ 
+ 
+ 
+-45%
+-36%
+-27%
+-18%
+-9%
+0%
+9%
+2015-06
+2015-10
+2016-02
+
+
+行业专题报告/国防军工 
+3 
+All rights are reserved by Essence Securities Co., Ltd. 
+For analyst certificate and other important disclosures, please refer to the Disclosure Section located at the end of this report.  
+ 
+  
+内容目录 
+前言：.......................................................................................................................................... 6 
+1.军民融合上升为国家战略，十三五开局之年下半年重点布局................................................... 6 
+1.1.军民融合‚寓军于民‛，深度融合下半年将加快推进 ...................................................... 6 
+1.2.军民融合是可持续国防工业的必经之路 .......................................................................... 8 
+2.军民融合：聚焦国防信息化、新型战备列装加速、军工新材料 ............................................. 10 
+2.1.国防军工：新型号军备列装加速，国防军工信息化加速推进 ....................................... 11 
+2.1.1.军费中武器装备占比稳中有升 ............................................................................. 11 
+2.1.2.主战战备加快升级换代新型军备列装加速 ........................................................... 12 
+2.1.3.科研院所改制加快，优质资产上市导致资产证券化进入2.0 ............................... 14 
+2.2.军民融合：军工之魂：电子化浪潮即将到来 ................................................................. 16 
+2.2.1.先进航电系统替代空间大 ..................................................................................... 17 
+2.2.2.信息化将成为新增长点 ........................................................................................ 18 
+2.3.军用通信装备升级和新兴‚黑科技‛为民参军孕育新机遇 ........................................... 19 
+2.4.军民深度融合，将开启军工信息化建设新时代 ............................................................. 23 
+2.4.1.军工信息化建设，将是‚十三五‛我国国防投入的重要方向 .............................. 23 
+2.4.2.网络与信息安全 ................................................................................................... 24 
+2.4.3.北斗卫星导航 ....................................................................................................... 25 
+2.4.4.电磁仿真与信号处理 ............................................................................................ 26 
+2.5.国防军工新材料空天装备基石 ....................................................................................... 29 
+2.5.1.高温合金：空天基石，材料超星 .......................................................................... 29 
+2.5.2.红外锗材料：中国军用市场潜力巨大................................................................... 30 
+3.主要推荐公司及投资逻辑 ....................................................................................................... 32 
+3.1.华讯方舟：战略转型国防信息化，坚定看好长期潜在价值 ........................................... 34 
+3.2.航新科技：民参军翘楚，航空维修、ATE、军工电子多轮驱动 .................................... 34 
+3.3.天银机电：家电零部件龙头，外延收购进军国防信息化 ............................................... 35 
+3.4.天海防务：聚焦海陆空防务大方向，民参军新锐业绩成长兼备 .................................... 35 
+3.5.中航电测：电测空间广阔，军民两翼齐飞..................................................................... 36 
+3.6.中航光电：新能源跨越式增长，军工受益新机型批产 .................................................. 37 
+3.7.凯乐科技：大通讯大安全起航，民用警用军工打通成长通道 ....................................... 37 
+3.8.欧比特：测绘空天信息，构建数据未来 ........................................................................ 38 
+3.9. 振华科技：CEC 军工电子大平台，新能源发展加速 ................................................... 39 
+3.10. 久之洋：红外领域又一新星冉冉升起 ........................................................................ 39 
+3.11. 三力士：军民融合成长空间广阔，兼具业绩弹性和安全边际 .................................... 40 
+3.12. 盛路通信：军工通信汽车电子高速增长，军民融合布局有望深化 ............................ 41 
+3.13. 金信诺：打造军用民用大连接平台，有望成为中国版安费诺 ................................... 41 
+3.14. 久远银海：中物院旗下的IT 上市平台 ...................................................................... 42 
+3.15. 同有科技：国产存储龙头，IT 行业的‚军工股‛ ..................................................... 42 
+3.16. 佳讯飞鸿：国内领先的指挥调度解决方案提供商 ...................................................... 43 
+3.17. 华力创通：北斗和卫星移动通信龙头 ........................................................................ 43 
+3.18. 启明星辰：国产信息安全龙头，国家安全捍卫者 ...................................................... 44 
+3.19.卫士通：信息安全国家队，电科集团旗下的信息安全平台 ......................................... 44 
+3.20.万泽股份：极具成长性的高温合金龙头 ...................................................................... 45 
+3.21.银邦股份：防务平台利剑出鞘，军民融合渐露峥嵘 .................................................... 45 
